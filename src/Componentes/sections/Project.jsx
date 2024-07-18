@@ -3,6 +3,7 @@ import Card from '../elements/Card'
 import FristPage from '../imagens/FristPage.svg'
 import Challenge1 from '../imagens/Challenge1.svg'
 import Challenge2 from '../imagens/Challenge2.svg'
+import Challenge3 from '../imagens/Challenge3.svg'
 
 function Project() {
     return (
@@ -37,6 +38,16 @@ function Project() {
                             aplicar nossas habilidades de programação de forma prática e realista.'
                 repor='https://github.com/TataFaria/Desafio2-Dnc'
                 site='https://desafio2-dnc-omega.vercel.app/'
+            /> 
+            <Card
+                img={Challenge3} 
+                title='Terceiro Desafio'
+                tech='HTML,CSS,JS e React'
+                description='No terceiro desafio avaliativo do curso, consistia em projetar um portfólio profissional
+                             utilizando a biblioteca React, empregando componentes específicos e técnicas modernas de 
+                             desenvolvimento com Hooks.'
+                repor='https://github.com/TataFaria/Desafio3-Dnc'
+                site='https://desafio3-dnc-chi.vercel.app/'
             /> 
        </div>
     )
