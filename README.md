@@ -5,6 +5,7 @@ O objetivo é adicionar funcionalidades no projeto do Desafio 3 e versionar o c�
 ## Melhorias
 
 Na branch version-1 está a versão clonada do projeto antigo.
+
 Na branch header foram feitas alteraçoes no footer como número de telefone e email.
 
 ## Stack utilizada
